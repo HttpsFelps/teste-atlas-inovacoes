@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7190150F-683E-43AD-B393-E3706B632387}|Exercicio1\\Exercicio1.csproj|c:\\users\\luisf\\documents\\projeto .net\\entrevista-tecnica\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7190150F-683E-43AD-B393-E3706B632387}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799161B6-A78C-4924-B80E-3848B0AFB6C1}|Exercicio2\\Exercicio2.csproj|c:\\users\\luisf\\documents\\projeto .net\\entrevista-tecnica\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799161B6-A78C-4924-B80E-3848B0AFB6C1}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799161B6-A78C-4924-B80E-3848B0AFB6C1}|Exercicio2\\Exercicio2.csproj|c:\\users\\luisf\\documents\\projeto .net\\entrevista-tecnica\\exercicio2\\exercicio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{799161B6-A78C-4924-B80E-3848B0AFB6C1}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\exercicio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:11:46.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:09:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio2.csproj",
+              "DocumentMoniker": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\Exercicio2\\Exercicio2.csproj",
+              "RelativeDocumentMoniker": "Exercicio2\\Exercicio2.csproj",
+              "ToolTip": "C:\\Users\\luisf\\Documents\\projeto .net\\entrevista-tecnica\\Exercicio2\\Exercicio2.csproj",
+              "RelativeToolTip": "Exercicio2\\Exercicio2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T03:08:48.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
